@@ -1,1 +1,2 @@
 this is an example file to show how git merge works.
+And now I am adding a line here...let's see what happens when we merge it.
