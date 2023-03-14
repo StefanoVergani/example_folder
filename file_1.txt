@@ -1,1 +1,2 @@
 this is an example file to show how git works.
+And now I am adding stuff.
